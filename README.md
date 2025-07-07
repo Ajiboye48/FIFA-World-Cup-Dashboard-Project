@@ -1,20 +1,14 @@
 # FIFA World Cup Dashboard Project
 
-[Project Overview](#project-overwiew)
-
 [Objective](#objective)
 
 [Scope of Work](#scope-of-work)
 
 [Methodology](#methodology)
 
-[Exploratory Data Analysis(EDA)](#exploratory-data-analysis(eda))
-
 [Results](#results)
 
 [Recommendations](#recommendations)
-
-[Data Visualization](data-visualization)
 
 ### **Project Overview**
 This interactive Power BI dashboard offers a comprehensive analysis of the FIFA World Cup, the world’s most-watched sporting event. The dashboard visualizes historical data on Country national team performances, goal statistics, and host nation outcomes across different tournament editions. Built with clarity and storytelling in mind, it serves as an insightful tool for fans, analysts, and football stakeholders alike.
