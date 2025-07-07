@@ -32,7 +32,7 @@ The primary sources of Data used here is World Cup Players.csv, World Cup Matche
 
 - Power Query: For ETL (Extract, Transform, Load) operations [Download Here](https://learn.microsoft.com/en-us/power-query/)
 
-- Power BI Desktop: For data modelling and visualization
+- Power BI Desktop: For data modelling and visualization [Download Here](https://powerbi.microsoft.com)
 
 - DAX: For custom KPIs and calculated measures
 
