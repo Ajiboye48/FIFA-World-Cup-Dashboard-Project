@@ -47,3 +47,28 @@ In the initial phase of the Data cleaning and preparations, we perform the follo
 - DAX Measures: Built calculated KPIs like Goals, Wins, Appearances.
 - Visualization: Applied storytelling techniques to create a clean, intuitive interface
 - Testing: Verified accuracy through cross-checking with official records
+
+### ** Exploratory Data Analysis (EDA)**
+Key insights uncovered:
+- Brazil remains the most decorated team in World Cup history.
+- Germany and Argentina consistently perform at the top level.
+- Host countries tend to perform better than average in their own tournaments.
+- Goal averages reveal tactical shifts across decades — from high-scoring to tighter games.
+
+### **Results**
+- Top Performing Nations: Brazil, Germany, Argentina (in terms of wins, goals, and consistency).
+- Most Successful Players: Historical legends ranked by goals and appearances.
+- Competitive Trends: More balance among teams in recent years.
+- Host Influence: Clear home advantage seen in host nation performance.
+
+### **Recommendations**
+
+- For Analysts: Keep updating the dataset to reflect the latest tournaments and expand to include women’s FIFA World Cups.
+- For Sports Organizations: Use similar dashboards for scouting, match preparation, and fan engagement strategies.
+
+**Enhancements:**
+- Add predictive modeling for future match outcomes.
+- Integrate player form, injury data, and advanced metrics.
+- Include fan sentiment and social media analysis for richer insights.
+
+### **Data Visualization**
