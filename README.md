@@ -1,12 +1,19 @@
 # FIFA World Cup Dashboard Project
 
 [Project Overview](#project-overwiew)
+
 [Objective](#objective)
+
 [Scope of Work](#scope-of-work)
+
 [Methodology](#methodology)
+
 [Exploratory Data Analysis](#exploratory-data-analysis)
+
 [Results](#results)
+
 [Recommendations](#recommendations)
+
 [Data Visualizations](data-visualizations)
 
 ### **Project Overview**
