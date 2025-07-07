@@ -36,7 +36,7 @@ The primary sources of Data used here is World Cup Players.csv, World Cup Matche
 
 - DAX: For custom KPIs and calculated measures 
 
-- GitHub for Portfolio Building	[Download Here](https://github.com)
+- GitHub for Portfolio Building	[Click Here](https://github.com)
 
 **Data Cleaning and Preparations**
 
