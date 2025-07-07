@@ -34,9 +34,9 @@ The primary sources of Data used here is World Cup Players.csv, World Cup Matche
 
 - Power BI Desktop: For data modelling and visualization [Download Here](https://powerbi.microsoft.com)
 
-- DAX: For custom KPIs and calculated measures
+- DAX: For custom KPIs and calculated measures 
 
-- GitHub for Portfolio Building	
+- GitHub for Portfolio Building	[Download Here](https://github.com)
 
 **Data Cleaning and Preparations**
 
