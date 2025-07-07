@@ -8,7 +8,7 @@
 
 [Methodology](#methodology)
 
-[Exploratory Data Analysis](#exploratory-data-analysis)
+[Exploratory Data Analysis(EDA)](#exploratory-data-analysis(eda))
 
 [Results](#results)
 
