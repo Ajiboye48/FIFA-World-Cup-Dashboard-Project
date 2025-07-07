@@ -68,7 +68,7 @@ In the initial phase of the Data cleaning and preparations, we perform the follo
 - Testing: Verified accuracy through cross-checking with official records
 
 ---
-### ** Exploratory Data Analysis (EDA)**
+### **Exploratory Data Analysis (EDA)**
 Key insights uncovered:
 - Brazil remains the most decorated team in World Cup history.
 - Germany and Argentina consistently perform at the top level.
