@@ -3,6 +3,7 @@
 ### **Project Overview**
 This interactive Power BI dashboard offers a comprehensive analysis of the FIFA World Cup, the world’s most-watched sporting event. The dashboard visualizes historical data on Country national team performances, goal statistics, and host nation outcomes across different tournament editions. Built with clarity and storytelling in mind, it serves as an insightful tool for fans, analysts, and football stakeholders alike.
 
+---
 ### **Objective**
 The main goal was to transform raw World Cup data into a visually compelling report that:
 - Highlights historical trends and tournament evolution.
@@ -10,6 +11,7 @@ The main goal was to transform raw World Cup data into a visually compelling rep
 - Enables interactive exploration of results by year, team, and host country.
 - Supports storytelling and decision-making with data-driven insights.
 
+---
 ### **Scope of Work**
 The dashboard covers:
 - Past FIFA World Cup tournaments 1930 – 2014.
@@ -18,6 +20,7 @@ The dashboard covers:
 - Filters for drill-down by year, team, and stage.
 - Visual trends across decades.
 
+---
 ### **Methodology**
 
 **Data Sources**
@@ -48,6 +51,7 @@ In the initial phase of the Data cleaning and preparations, we perform the follo
 - Visualization: Applied storytelling techniques to create a clean, intuitive interface
 - Testing: Verified accuracy through cross-checking with official records
 
+---
 ### ** Exploratory Data Analysis (EDA)**
 Key insights uncovered:
 - Brazil remains the most decorated team in World Cup history.
@@ -55,12 +59,14 @@ Key insights uncovered:
 - Host countries tend to perform better than average in their own tournaments.
 - Goal averages reveal tactical shifts across decades — from high-scoring to tighter games.
 
+---
 ### **Results**
 - Top Performing Nations: Brazil, Germany, Argentina (in terms of wins, goals, and consistency).
 - Most Successful Players: Historical legends ranked by goals and appearances.
 - Competitive Trends: More balance among teams in recent years.
 - Host Influence: Clear home advantage seen in host nation performance.
 
+---
 ### **Recommendations**
 
 - For Analysts: Keep updating the dataset to reflect the latest tournaments and expand to include women’s FIFA World Cups.
@@ -71,5 +77,6 @@ Key insights uncovered:
 - Integrate player form, injury data, and advanced metrics.
 - Include fan sentiment and social media analysis for richer insights.
 
+---
 ### **Data Visualization**
 ![Screenshot 2025-07-07 135509](https://github.com/user-attachments/assets/af04b2c9-0f40-47c1-8488-0df75892d7ec)
